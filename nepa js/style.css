@@ -1,0 +1,17 @@
+.change{
+    background-image: url(img/on.png);
+}
+
+img{
+height: 500px;
+width: 450px;
+border: 2px;
+}
+h1{
+color: black;
+margin-top: 20px;
+font-family: 'prata', cursive, sans-serif;
+}
+.button{
+margin-left: 45%;
+}
