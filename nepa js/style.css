@@ -1,17 +1,32 @@
+body{
+    background-image: url(img/bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
 .change{
     background-image: url(img/on.png);
 }
 
 img{
-height: 500px;
-width: 450px;
-border: 2px;
+    height: 400px;
+    width: 280px;
+    border: 2px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 h1{
-color: black;
-margin-top: 20px;
-font-family: 'prata', cursive, sans-serif;
+    color: whitesmoke;
+    margin-top: 20px;
+    font-family: 'Prata', serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
-.button{
-margin-left: 45%;
+p{
+    color: rgba(245, 245, 245, 0.486);
+    margin-top: 20px;
+    font-family: 'Prata', serif;
 }
